@@ -1,0 +1,23 @@
+{
+  "name": "cheops-commiter",
+  "version": "1.0.0",
+  "description": "This is node module to handle and standardize commit messages within Cheops Technology, based on Commitizen.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cedgerbaud/cheops-commiter.git"
+  },
+  "keywords": [
+    "nodejs",
+    "commitizen"
+  ],
+  "author": "Cedric Gerbaud",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cedgerbaud/cheops-commiter/issues"
+  },
+  "homepage": "https://github.com/cedgerbaud/cheops-commiter#readme"
+}
